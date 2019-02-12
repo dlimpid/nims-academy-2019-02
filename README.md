@@ -68,18 +68,12 @@
 
     1. 터미널 실행
 
-    2. 디렉토리 이동
+    2. 환경 만들기
+
+        다음 명령어를 실행하면 icim-academy 이름의 환경을 만듭니다.
 
         ```sh
-        (base) $ cd nims-academy-2019-02
-        ```
-
-    3. 환경 만들기
-
-        다음 명령어를 실행하면 자동으로 environment.yml 파일을 읽어서 icim-academy 환경을 만듭니다.
-
-        ```sh
-        (base) $ conda env create
+        (base) $ conda env create -f nims-academy-2019-02-master/environment.yml
         ```
 
         마지막에 다음과 비슷한 메시지가 나왔으면 제대로 설치된 것입니다.
@@ -116,9 +110,9 @@
 
 6. 설치 확인
 
-    python-pandas-tutorial-nims-academy-2019-02 디렉토리에 있는 environment-test.ipynb를 열고 Run -> Run All Cells를 실행하여 모든 셀이 문제 없이 실행되는지 확인해 봅니다.
+    JupyterLab에서 nims-academy-2019-02-master 디렉토리에 있는 environment-test.ipynb를 열고 Run -> Run All Cells를 실행하여 모든 셀이 문제 없이 실행되는지 확인해 봅니다.
 
-## 기타
+## 참고 사항
 
 ### 기존 환경 삭제 방법
 
