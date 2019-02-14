@@ -152,7 +152,7 @@ Windows에서 다른 드라이브로 이동할 때에는 드라이브도 바꿔 
 (icim-academy) D:\path\to\go> jupyter lab
 ```
 
-### 방법 2: 옵션으로 지정하기
+#### 방법 2: 옵션으로 지정하기
 
 `--notebook-dir` 옵션으로 시작 디렉터리를 지정할 수 있습니다.
 
