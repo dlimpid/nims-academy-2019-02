@@ -32,7 +32,7 @@
 
         ```sh
         (base) $ conda --version
-        conda 4.6.3
+        conda 4.6.4
         ```
 
 3. 자료 다운로드
