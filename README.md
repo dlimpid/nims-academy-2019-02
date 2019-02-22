@@ -30,7 +30,6 @@
 
         ```sh
         (base) $ conda update -n base conda
-        (base) $ conda init
         ```
 
     3. 터미널을 닫았다가 재실행
