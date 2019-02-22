@@ -70,7 +70,7 @@
 
     2. 환경 만들기
 
-        다음 명령어를 실행해서 icim-academy 이름의 환경을 만듭니다.
+        다음 명령어를 실행해서 nims-academy 이름의 환경을 만듭니다.
 
         ```sh
         (base) $ conda env create -f nims-academy-2019-02-master/environment.yml
@@ -84,7 +84,7 @@
         #
         # To activate this environment, use
         #
-        #     $ conda activate icim-academy
+        #     $ conda activate nims-academy
         #
         # To deactivate an active environment, use
         #
@@ -96,23 +96,23 @@
     터미널을 연 후 다음을 실행합니다.
 
     ```sh
-    (base) $ conda activate icim-academy
-    (icim-academy) $ jupyter lab
+    (base) $ conda activate nims-academy
+    (nims-academy) $ jupyter lab
     ```
 
-    `jupyter lab` 명령어를 칠 때 명령줄 앞에 `(icim-academy)`가 보이는지 확인해 보세요.
+    `jupyter lab` 명령어를 칠 때 명령줄 앞에 `(nims-academy)`가 보이는지 확인해 보세요.
 
     Windows의 경우 다음 방법도 사용할 수 있습니다.
 
     1. 시작 -> Anaconda3 (64-bit) -> Anaconda Navigator
-    2. **상단 "Applications on" 부분에서 "icim-academy" 선택**
+    2. **상단 "Applications on" 부분에서 "nims-academy" 선택**
     3. JupyterLab의 Launch 버튼 클릭
 
 6. 설치 확인
 
     웹 브라우저에서 JupyterLab이 열리면 nims-academy-2019-02-master 디렉터리에 있는 environment-test.ipynb를 열고 Run -> Run All Cells를 실행하여
 
-    - 모든 셀이 문제 없이 실행되는지(첫 번째나 두 번째 셀에서 오류가 나는 경우 5번의 `conda activate icim-academy`를 실행했는지 확인)
+    - 모든 셀이 문제 없이 실행되는지(첫 번째나 두 번째 셀에서 오류가 나는 경우 5번의 `conda activate nims-academy`를 실행했는지 확인)
     - 그림에 한글이 잘 출력되는지(출력되지 않는 경우 설명을 참고하여 글꼴 이름 바꾸기)
 
     확인해 봅니다.
@@ -128,7 +128,7 @@
 2. 다음 명령어 실행
 
     ```sh
-    (base) $ conda env remove -n icim-academy
+    (base) $ conda env remove -n nims-academy
     ```
 
 ### 다른 디렉터리에서 JupyterLab 실행하기
@@ -140,16 +140,16 @@
 Windows와 Mac 모두 `cd` 명령어로 이동할 수 있습니다.
 
 ```sh
-(icim-academy) C:\Users\myid> cd c:\path\to\go
-(icim-academy) C:\path\to\go> jupyter lab
+(nims-academy) C:\Users\myid> cd c:\path\to\go
+(nims-academy) C:\path\to\go> jupyter lab
 ```
 
 Windows에서 다른 드라이브로 이동할 때에는 드라이브도 바꿔 주어야 합니다.
 
 ```sh
-(icim-academy) C:\Users\myid> d:
-(icim-academy) D:\> cd path\to\go
-(icim-academy) D:\path\to\go> jupyter lab
+(nims-academy) C:\Users\myid> d:
+(nims-academy) D:\> cd path\to\go
+(nims-academy) D:\path\to\go> jupyter lab
 ```
 
 #### 방법 2: 옵션으로 지정하기
@@ -157,5 +157,5 @@ Windows에서 다른 드라이브로 이동할 때에는 드라이브도 바꿔 
 `--notebook-dir` 옵션으로 시작 디렉터리를 지정할 수 있습니다.
 
 ```sh
-(icim-academy) jupyter lab --notebook-dir="C:\path\to\go"
+(nims-academy) jupyter lab --notebook-dir="C:\path\to\go"
 ```

@@ -1,4 +1,4 @@
-name: icim-academy
+name: nims-academy
 channels:
   - defaults
   - conda-forge
