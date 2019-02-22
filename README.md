@@ -113,7 +113,7 @@
     웹 브라우저에서 JupyterLab이 열리면 nims-academy-2019-02-master 디렉터리에 있는 environment-test.ipynb를 열고 Run -> Run All Cells를 실행하여
 
     - 모든 셀이 문제 없이 실행되는지(첫 번째나 두 번째 셀에서 오류가 나는 경우 5번의 `conda activate nims-academy`를 실행했는지 확인)
-    - 그림에 한글이 잘 출력되는지(출력되지 않는 경우 설명을 참고하여 글꼴 이름 바꾸기)
+    - 그림에 한글이 잘 출력되는지(끝까지 실행되지 않고 중간에 에러가 나는 경우 notebook의 설명을 참고하여 글꼴 이름 바꾸기)
 
     확인해 봅니다.
 
