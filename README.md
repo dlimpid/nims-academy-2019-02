@@ -1,5 +1,17 @@
 # 제4회 국가수리과학연구소 산업수학 아카데미
 
+<div style="font-size: 1.3em; color: #004085; background-color: #cce5ff; border-color: #b8daff;;">
+    ℹ️ 설치 관련 질문이 있으면 <a href="https://github.com/dlimpid/nims-academy-2019-02/issues">Issue 페이지</a>에 올려 주세요.</p>
+</div>
+
+<div style="font-size: 1.3em; color: #856404; background-color: #fff3cd; border-color: #ffeeba;">
+    <p>⚠️ 32-bit 운영체제로는 실습이 불가능합니다.</p>
+</div>
+
+<div style="font-size: 1.3em; color: #856404; background-color: #fff3cd; border-color: #ffeeba;">
+    <p>⚠️ 아래 실행 중 2.1에서 Windows 시작 메뉴에 Anaconda3가 생성되지 않는 경우, 제어판에서 "Python 3.7.1 (Anaconda3 ...)"을 삭제하고 재부팅한 후 재설치해 보세요. 그래도 안될 경우, 다시 삭제, 재부팅 후 <a href="https://docs.conda.io/en/latest/miniconda.html">Miniconda (Python 3.7)</a>를 설치해 보세요.</p>
+</div>
+
 ## 컴퓨터 환경 세팅
 
 1. Anaconda 설치
