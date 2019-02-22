@@ -8,3 +8,5 @@ dependencies:
   - py-xgboost
   - folium
   - python-graphviz
+  - tensorflow
+  - pydot

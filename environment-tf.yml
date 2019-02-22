@@ -1,8 +1,0 @@
-name: icim-academy-tf
-channels:
-  - defaults
-  - conda-forge
-dependencies:
-  - anaconda
-  - tensorflow
-  - pydot
