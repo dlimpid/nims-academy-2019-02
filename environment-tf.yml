@@ -1,4 +1,4 @@
-name: icim-academy
+name: icim-academy-tf
 channels:
   - defaults
   - conda-forge
