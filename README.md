@@ -1,6 +1,6 @@
 # 제4회 국가수리과학연구소 산업수학 아카데미
 
-ℹ️ 설치 관련 질문이 있으면 [Issue 페이지](https://github.com/dlimpid/nims-academy-2019-02/issues)에 올려 주세요.
+ℹ️ GitHub 계정이 있으시면 [Issue 페이지](https://github.com/dlimpid/nims-academy-2019-02/issues)에 질문을 올리셔도 됩니다.
 
 ℹ️ 설치 파일 용량이 크므로, 만약을 대비해 가능하면 설치 파일을 지우지 말고 남겨 두세요.
 
@@ -71,7 +71,7 @@
 
 4. 아카데미용 환경 만들기
 
-    1. 터미널 실행
+    1. 2.i대로 터미널 실행
 
     2. 환경 만들기
 
@@ -98,7 +98,7 @@
 
 5. JupyterLab 실행
 
-    터미널을 연 후 다음을 실행합니다.
+    2.i대로 터미널을 연 후 다음을 실행합니다.
 
     ```sh
     (base) $ conda activate nims-academy
