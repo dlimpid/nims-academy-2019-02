@@ -170,7 +170,7 @@ Windows에서 다른 드라이브로 이동할 때에는 드라이브도 바꿔 
 1. 제어판에서 "Python ?.?.? (Anaconda3 ...)"을 삭제
 2. C:\Users\myid\Anaconda3\가 남아있으면 삭제
 3. <kbd>Windows</kbd> + <kbd>r</kbd>을 누르고 "regedit" 실행
-4. HKEY_CURRENT_USER\Software\Microsoft\Command Processor를 찾아가서 "AutoRun, REG_EXPAND_SZ, "C:\Users\dlimp\Anaconda3\condabin\conda_hook.bat" 항목이 있으면 삭제
+4. HKEY_CURRENT_USER\Software\Microsoft\Command Processor를 찾아가서 "AutoRun, REG_EXPAND_SZ, "C:\Users\myid\Anaconda3\condabin\conda_hook.bat" 항목이 있으면 삭제
 5. 재부팅한 후 재설치
 
 그래도 안될 경우, 똑같이 하되 5번에서 재부팅한 후 [Miniconda (Python 3.7)](https://docs.conda.io/en/latest/miniconda.html)를 설치해 보세요.
