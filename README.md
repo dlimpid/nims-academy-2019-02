@@ -2,10 +2,11 @@
 
 ℹ️ 설치 관련 질문이 있으면 [Issue 페이지](https://github.com/dlimpid/nims-academy-2019-02/issues)에 올려 주세요.
 
+ℹ️ 설치 파일 용량이 크므로, 만약을 대비해 가능하면 설치 파일을 지우지 말고 남겨 두세요.
+
 ⚠️ 32-bit 운영체제로는 실습이 불가능합니다.
 
-⚠️ 아래 실행 중 2.1에서 Windows 시작 메뉴에 Anaconda3가 생성되지 않는 경우, 제어판에서 "Python 3.7.1 (Anaconda3 ...)"을 삭제하고 재부팅한 후 재설치해 보세요. 그래도 안될 경우, 다시 삭제, 재부팅 후 [Miniconda (Python 3.7)](https://docs.conda.io/en/latest/miniconda.html)를 설치해 보세요.
-
+⚠️ 아래 실행 중 2.i에서 Windows 시작 메뉴에 Anaconda3가 생성되지 않는 경우, [아래](#windows에서-anaconda-재설치시-시작-메뉴에-anaconda-prompt가-만들어지지-않는-경우)를 참고해 보세요.
 
 ## 컴퓨터 환경 세팅
 
@@ -14,8 +15,6 @@
     Anaconda나 Miniconda를 이미 설치한 경우에는 이전 버전으로 깔았더라도 재설치할 필요가 없이 "2. Conda 업데이트" 항목부터 하시면 됩니다.
 
     설치한 적이 없는 경우 [Download Anaconda Distribution](https://www.anaconda.com/download/) 페이지에서 Python 3.7 version을 받아 설치합니다.
-
-    설치 파일 용량이 크므로, 만일을 위해 가능하다면 설치 파일을 지우지 말고 남겨 두세요.
 
 2. Conda 업데이트
 
@@ -165,3 +164,13 @@ Windows에서 다른 드라이브로 이동할 때에는 드라이브도 바꿔 
 ```sh
 (nims-academy) jupyter lab --notebook-dir="C:\path\to\go"
 ```
+
+### Windows에서 Anaconda 재설치시 시작 메뉴에 Anaconda prompt가 만들어지지 않는 경우
+
+1. 제어판에서 "Python ?.?.? (Anaconda3 ...)"을 삭제
+2. C:\Users\myid\Anaconda3\가 남아있으면 삭제
+3. <kbd>Windows</kbd> + <kbd>r</kbd>을 누르고 "regedit" 실행
+4. HKEY_CURRENT_USER\Software\Microsoft\Command Processor를 찾아가서 "AutoRun, REG_EXPAND_SZ, "C:\Users\dlimp\Anaconda3\condabin\conda_hook.bat" 항목이 있으면 삭제
+5. 재부팅한 후 재설치
+
+그래도 안될 경우, 똑같이 하되 5번에서 재부팅한 후 [Miniconda (Python 3.7)](https://docs.conda.io/en/latest/miniconda.html)를 설치해 보세요.
