@@ -18,7 +18,7 @@
 
 2. Conda 업데이트
 
-    1. 터미널 실행
+    1. 터미널(Anaconda prompt) 실행
 
         - Windows: 시작 -> Anaconda3 (64-bit) -> Anaconda Prompt
         - Mac: Launchpad -> 터미널
@@ -71,7 +71,7 @@
 
 4. 아카데미용 환경 만들기
 
-    1. 2.i대로 터미널 실행
+    1. 2.i대로 터미널(Anaconda prompt) 실행
 
     2. 환경 만들기
 
@@ -98,7 +98,7 @@
 
 5. JupyterLab 실행
 
-    2.i대로 터미널을 연 후 다음을 실행합니다.
+    2.i대로 터미널(Anaconda prompt)을 연 후 다음을 실행합니다.
 
     ```sh
     (base) $ conda activate nims-academy
@@ -128,7 +128,7 @@
 
 ### 기존 환경 삭제 방법
 
-1. 터미널 실행
+1. 터미널(Anaconda prompt) 실행
 
 2. 다음 명령어 실행
 
