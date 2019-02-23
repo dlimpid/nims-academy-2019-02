@@ -10,9 +10,14 @@
 
 ℹ️ 설치 파일 용량이 크므로, 만약을 대비해 가능하면 설치 파일을 지우지 말고 남겨 두세요.
 
-⚠️ 32-bit 운영체제로는 실습이 불가능합니다.
+⚠️ 설치할 때 가능한 한 옵션값을 바꾸지 말고 초기 상태대로 두고 설치하세요.
+
+- "Just Me (recommended)" **선택**
+- Add Anaconda to my PATH environment variable **선택하지 않기**
 
 ⚠️ 아래 실행 중 2.i에서 Windows 시작 메뉴에 Anaconda3가 생성되지 않는 경우, [아래](#windows에서-anaconda-재설치시-시작-메뉴에-anaconda-prompt가-만들어지지-않는-경우)를 참고해 보세요.
+
+⚠️ 32-bit 운영체제로는 실습이 불가능합니다.
 
 1. Anaconda 설치
 
