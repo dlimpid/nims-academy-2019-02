@@ -3,7 +3,7 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - python=3
+  - python>=3.6
   - anaconda
   - fonttools
   - py-xgboost
