@@ -19,9 +19,7 @@
 
 ### Python, 데이터 분석 강연 자료
 
-저장소의 파일 목록에서 [introduction-to-python](https://github.com/dlimpid/nims-academy-2019-02/tree/master/introduction-to-python), [introduction-to-data-analysis](https://github.com/dlimpid/nims-academy-2019-02/tree/master/introduction-to-python) 디렉터리에서 받으실 수 있습니다.
-
-
+저장소의 파일 목록 중 [introduction-to-python](https://github.com/dlimpid/nims-academy-2019-02/tree/master/introduction-to-python), [introduction-to-data-analysis](https://github.com/dlimpid/nims-academy-2019-02/tree/master/introduction-to-data-analysis) 디렉터리에서 받으실 수 있습니다.
 
 ## 전화번호 관련 안내
 
