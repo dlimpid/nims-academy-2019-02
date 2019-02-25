@@ -1,12 +1,34 @@
 # 제4회 국가수리과학연구소 산업수학 아카데미
 
-## 안내
+## 강연 자료, 데이터 다운로드 안내
+
+아래 목록에서 개별적으로 내려받거나 현재 상태의 전체 저장소를 [한꺼번에 내려받을](https://github.com/dlimpid/nims-academy-2019-02/archive/master.zip) 수도 있습니다(Skin cancer MNIST 데이터 제외).
+
+### Skin cancer MNIST 데이터셋
+
+[Kaggle 웹사이트](https://www.kaggle.com/)의 [Skin cancer MNIST](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000) 문제 페이지에서 문제 hmnist_28_28_RGB.csv 파일을 다운로드 받으세요.
+
+### GH 건설 데이터
+
+압축파일 내려받기
+
+### 보고서 탬플릿
+
+한/글 파일, Word 파일
+
+### Python, 데이터 분석 강연 자료
+
+저장소의 파일 목록에서 [introduction-to-python](https://github.com/dlimpid/nims-academy-2019-02/tree/master/introduction-to-python), [introduction-to-data-analysis](https://github.com/dlimpid/nims-academy-2019-02/tree/master/introduction-to-python) 디렉터리에서 받으실 수 있습니다.
+
+
+
+## 전화번호 관련 안내
 
 센터 대표 전화번호 <a href="tel:031-888-5900">031-888-5900</a>이 전화 앱, 스팸 차단 앱 등에서 다른 회사 이름으로 표시되는 경우가 있다고 합니다. 본 행사는 [국가수리과학연구소](https://www.nims.re.kr/) 산업수학혁신센터에서 진행하는 [행사](https://icim.nims.re.kr/post/event/633)입니다. 센터가 지난 2월 15일 이사를 했는데, 이전에 전화번호를 사용하던 업체의 정보가 표시되는 것으로 보입니다.
 
 ## 컴퓨터 환경 세팅
 
-⚠️⚠️ 2월 24일(일요일) 오전 9시 이전 설치하신 분 중 혹시 Python version 2로 설치되어 `print` 문에서 오류가 나시는 경우 [아래](#%EA%B8%B0%EC%A1%B4-%ED%99%98%EA%B2%BD-%EC%82%AD%EC%A0%9C-%EB%B0%A9%EB%B2%95)를 참조하셔서 환경을 삭제하신 후, 압축파일을 다시 다운받아 설치해 보세요.
+⚠️ 2월 24일(일요일) 오전 9시 이전 설치하신 분 중 혹시 Python version 2로 설치되어 `print` 문에서 오류가 나시는 경우 [아래](#%EA%B8%B0%EC%A1%B4-%ED%99%98%EA%B2%BD-%EC%82%AD%EC%A0%9C-%EB%B0%A9%EB%B2%95)를 참조하셔서 환경을 삭제하신 후, 압축파일을 다시 다운받아 설치해 보세요.
 
 ℹ️ GitHub 계정이 있으시면 [Issue 페이지](https://github.com/dlimpid/nims-academy-2019-02/issues)에 질문을 올리셔도 됩니다.
 
