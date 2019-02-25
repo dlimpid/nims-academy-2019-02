@@ -10,11 +10,12 @@
 
 ### GH 건설 데이터
 
-압축파일 내려받기
+[압축파일 내려받기](https://github.com/dlimpid/nims-academy-2019-02/raw/master/data/gh-data.zip)
 
 ### 보고서 탬플릿
 
-한/글 파일, Word 파일
+- [한/글 파일](https://github.com/dlimpid/nims-academy-2019-02/raw/master/template/%EC%A0%9C4%ED%9A%8C%20NIMS%20%EC%82%B0%EC%97%85%EC%88%98%ED%95%99%20%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%20%EA%B0%9C%EC%9D%B8%20%EB%A0%88%ED%8F%AC%ED%8A%B8.hwp)
+- [Word 파일](https://github.com/dlimpid/nims-academy-2019-02/raw/master/template/%EC%A0%9C4%ED%9A%8C%20NIMS%20%EC%82%B0%EC%97%85%EC%88%98%ED%95%99%20%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%20%EA%B0%9C%EC%9D%B8%20%EB%A0%88%ED%8F%AC%ED%8A%B8.docx)
 
 ### Python, 데이터 분석 강연 자료
 
