@@ -4,6 +4,13 @@
 
 :heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark:[설문조사 링크](https://goo.gl/forms/j7j7RoAec5KrAtLw1):heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark:
 
+### 보고서 탬플릿
+
+- [한/글 파일](https://github.com/dlimpid/nims-academy-2019-02/raw/master/template/%EC%A0%9C4%ED%9A%8C%20NIMS%20%EC%82%B0%EC%97%85%EC%88%98%ED%95%99%20%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%20%EA%B0%9C%EC%9D%B8%20%EB%A0%88%ED%8F%AC%ED%8A%B8.hwp)
+- [Word 파일](https://github.com/dlimpid/nims-academy-2019-02/raw/master/template/%EC%A0%9C4%ED%9A%8C%20NIMS%20%EC%82%B0%EC%97%85%EC%88%98%ED%95%99%20%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%20%EA%B0%9C%EC%9D%B8%20%EB%A0%88%ED%8F%AC%ED%8A%B8.docx)
+
+[mwna1523@nims.re.kr](mailto:mwna1523@nims.re.kr)로 2월 27일(수요일) 11시까지 보내 주세요.
+
 ## 강연 자료, 데이터 다운로드 안내
 
 아래 목록에서 개별적으로 내려받거나 현재 상태의 전체 저장소를 [한꺼번에 내려받을](https://github.com/dlimpid/nims-academy-2019-02/archive/master.zip) 수도 있습니다(Skin cancer MNIST 데이터 제외).
@@ -15,11 +22,6 @@
 ### GH 건설 데이터
 
 [압축파일 내려받기](https://github.com/dlimpid/nims-academy-2019-02/raw/master/data/gh-data.zip)
-
-### 보고서 탬플릿
-
-- [한/글 파일](https://github.com/dlimpid/nims-academy-2019-02/raw/master/template/%EC%A0%9C4%ED%9A%8C%20NIMS%20%EC%82%B0%EC%97%85%EC%88%98%ED%95%99%20%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%20%EA%B0%9C%EC%9D%B8%20%EB%A0%88%ED%8F%AC%ED%8A%B8.hwp)
-- [Word 파일](https://github.com/dlimpid/nims-academy-2019-02/raw/master/template/%EC%A0%9C4%ED%9A%8C%20NIMS%20%EC%82%B0%EC%97%85%EC%88%98%ED%95%99%20%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%20%EA%B0%9C%EC%9D%B8%20%EB%A0%88%ED%8F%AC%ED%8A%B8.docx)
 
 ## 전화번호 관련 안내
 
