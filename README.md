@@ -1,5 +1,9 @@
 # 제4회 국가수리과학연구소 산업수학 아카데미
 
+## 설문조사
+
+:heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark:[설문조사 링크](https://goo.gl/forms/j7j7RoAec5KrAtLw1):heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark:
+
 ## 강연 자료, 데이터 다운로드 안내
 
 아래 목록에서 개별적으로 내려받거나 현재 상태의 전체 저장소를 [한꺼번에 내려받을](https://github.com/dlimpid/nims-academy-2019-02/archive/master.zip) 수도 있습니다(Skin cancer MNIST 데이터 제외).
