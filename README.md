@@ -21,10 +21,6 @@
 - [한/글 파일](https://github.com/dlimpid/nims-academy-2019-02/raw/master/template/%EC%A0%9C4%ED%9A%8C%20NIMS%20%EC%82%B0%EC%97%85%EC%88%98%ED%95%99%20%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%20%EA%B0%9C%EC%9D%B8%20%EB%A0%88%ED%8F%AC%ED%8A%B8.hwp)
 - [Word 파일](https://github.com/dlimpid/nims-academy-2019-02/raw/master/template/%EC%A0%9C4%ED%9A%8C%20NIMS%20%EC%82%B0%EC%97%85%EC%88%98%ED%95%99%20%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%20%EA%B0%9C%EC%9D%B8%20%EB%A0%88%ED%8F%AC%ED%8A%B8.docx)
 
-### Python, 데이터 분석 강연 자료
-
-저장소의 파일 목록 중 [introduction-to-python](https://github.com/dlimpid/nims-academy-2019-02/tree/master/introduction-to-python), [introduction-to-data-analysis](https://github.com/dlimpid/nims-academy-2019-02/tree/master/introduction-to-data-analysis) 디렉터리에서 받으실 수 있습니다.
-
 ## 전화번호 관련 안내
 
 센터 대표 전화번호 <a href="tel:031-888-5900">031-888-5900</a>이 전화 앱, 스팸 차단 앱 등에서 다른 회사 이름으로 표시되는 경우가 있다고 합니다. 본 행사는 [국가수리과학연구소](https://www.nims.re.kr/) 산업수학혁신센터에서 진행하는 [행사](https://icim.nims.re.kr/post/event/633)입니다. 센터가 지난 2월 15일 이사를 했는데, 이전에 전화번호를 사용하던 업체의 정보가 표시되는 것으로 보입니다.
