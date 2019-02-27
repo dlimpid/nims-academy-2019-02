@@ -31,20 +31,20 @@
 
 ## 컴퓨터 환경 세팅
 
-⚠️ 2월 24일(일요일) 오전 9시 이전 설치하신 분 중 혹시 Python version 2로 설치되어 `print` 문에서 오류가 나시는 경우 [아래](#%EA%B8%B0%EC%A1%B4-%ED%99%98%EA%B2%BD-%EC%82%AD%EC%A0%9C-%EB%B0%A9%EB%B2%95)를 참조하셔서 환경을 삭제하신 후, 압축파일을 다시 다운받아 설치해 보세요.
+:warning: 2월 24일(일요일) 오전 9시 이전 설치하신 분 중 혹시 Python version 2로 설치되어 `print` 문에서 오류가 나시는 경우 [아래](#%EA%B8%B0%EC%A1%B4-%ED%99%98%EA%B2%BD-%EC%82%AD%EC%A0%9C-%EB%B0%A9%EB%B2%95)를 참조하셔서 환경을 삭제하신 후, 압축파일을 다시 다운받아 설치해 보세요.
 
-ℹ️ GitHub 계정이 있으시면 [Issue 페이지](https://github.com/dlimpid/nims-academy-2019-02/issues)에 질문을 올리셔도 됩니다.
+:information_source: GitHub 계정이 있으시면 [Issue 페이지](https://github.com/dlimpid/nims-academy-2019-02/issues)에 질문을 올리셔도 됩니다.
 
-ℹ️ 설치 파일 용량이 크므로, 만약을 대비해 가능하면 설치 파일을 지우지 말고 남겨 두세요.
+:information_source: 설치 파일 용량이 크므로, 만약을 대비해 가능하면 설치 파일을 지우지 말고 남겨 두세요.
 
-⚠️ 설치할 때 가능한 한 옵션값을 바꾸지 말고 초기 상태대로 두고 설치하세요.
+:warning: 설치할 때 가능한 한 옵션값을 바꾸지 말고 초기 상태대로 두고 설치하세요.
 
 - "Just Me (recommended)" **선택**
 - Add Anaconda to my PATH environment variable **선택하지 않기**
 
-⚠️ 아래 실행 중 2.i에서 Windows 시작 메뉴에 Anaconda3가 생성되지 않는 경우, [아래](#windows에서-anaconda-재설치시-시작-메뉴에-anaconda-prompt가-만들어지지-않는-경우)를 참고해 보세요.
+:warning: 아래 실행 중 2.i에서 Windows 시작 메뉴에 Anaconda3가 생성되지 않는 경우, [아래](#windows에서-anaconda-재설치시-시작-메뉴에-anaconda-prompt가-만들어지지-않는-경우)를 참고해 보세요.
 
-⚠️ 32-bit 운영체제로는 실습이 불가능합니다.
+:warning: 32-bit 운영체제로는 실습이 불가능합니다.
 
 1. Anaconda 설치
 
